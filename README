@@ -1,3 +1,4 @@
+
 def multiple(a, b):
     """Function to add two numbers."""
     return a * b
@@ -5,6 +6,15 @@ def multiple(a, b):
 def div(a, b):
     """Function to subtract b from a."""
     return a / b
+
+def sub(a, b):
+    """Function to add two numbers."""
+    return a - b
+
+def add(a, b):
+    """Function to subtract b from a."""
+    return a + b
+
 
 # Example usage
 num1 = 10
